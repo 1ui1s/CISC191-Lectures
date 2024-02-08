@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world");
 
         Day day = Day.getRandomDay();
-        System.out.println(day);
+        System.out.println("Today is " + day);
     }
 }
